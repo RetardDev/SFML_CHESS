@@ -1,0 +1,3 @@
+/home/cryptic/Documents/SFML-CHESS/cmake-build-debug/CMakeFiles/SFML_CHESS.dir
+/home/cryptic/Documents/SFML-CHESS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cryptic/Documents/SFML-CHESS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
